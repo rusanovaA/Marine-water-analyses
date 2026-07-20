@@ -83,4 +83,4 @@ The analysis was performed in **R (4.2.2)** using the following key packages:
 - `igraph`
 
 Operating system: **Windows 10**  
-Last updated: **November 2025**
+Last updated: **July 2026**
