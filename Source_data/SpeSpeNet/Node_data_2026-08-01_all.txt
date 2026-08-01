@@ -1,0 +1,258 @@
+Kingdom	Phylum	Class	Order	Family	Genus	Species	name	nodeSize	cluster	counts
+OTU_1	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ia	OTU_1	OTU_1	12	1	11.0554993868557
+OTU_2	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Halieaceae	OM60(NOR5) clade	OTU_2	OTU_2	10.3667786568259	2	8.06791369885169
+OTU_3	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Nitrincolaceae	OTU_3	OTU_3	OTU_3	9.42737614794686	3	6.56224693763471
+OTU_4	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	OTU_4	OTU_4	7.62000910797452	2	4.10243064232978
+OTU_5	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Polaribacter	OTU_5	OTU_5	7.11653979705283	1	3.5196287420813
+OTU_6	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Planktomarina	OTU_6	OTU_6	7.24879401597189	2	3.66840070002476
+OTU_7	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Formosa	OTU_7	OTU_7	7.27790303977103	2	3.70155874912237
+OTU_8	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	OTU_8	OTU_8	OTU_8	6.5940599475341	2	2.96200807970614
+OTU_9	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	OTU_9	OTU_9	3.5397458250532	1	0.663962762454237
+OTU_10	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Roseibacillus	OTU_10	OTU_10	5.42049323133582	2	1.88472654852379
+OTU_11	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Ulvibacter	OTU_11	OTU_11	5.27612250598704	2	1.76895027882631
+OTU_12	Bacteria	Proteobacteria	Gammaproteobacteria	Thiomicrospirales	Thioglobaceae	SUP05 cluster	OTU_12	OTU_12	6.07344510149673	3	2.45418249621026
+OTU_13	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	OTU_13	OTU_13	OTU_13	5.27915890024298	3	1.77134749893117
+OTU_14	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	OTU_14	OTU_14	OTU_14	OTU_14	5.41894326507771	2	1.88346408584123
+OTU_15	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Sulfitobacter	OTU_15	OTU_15	4.85991721139593	2	1.45571837785527
+OTU_16	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	OTU_16	OTU_16	OTU_16	4.10511972599752	2	0.965472317557899
+OTU_17	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Porticoccaceae	SAR92 clade	OTU_17	OTU_17	5.31729520891837	1	1.8015941715397
+OTU_18	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Amylibacter	OTU_18	OTU_18	5.27645717785477	2	1.76921442121965
+OTU_19	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Microbacteriaceae	SV1-3	OTU_19	OTU_19	4.42789833396111	2	1.16284375701525
+OTU_20	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	OTU_20	OTU_20	4.79900711398423	2	1.41243630080293
+OTU_21	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS4 marine group	OTU_21	OTU_21	4.82704421455966	2	1.43227803685705
+OTU_22	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Paraglaciecola	OTU_22	OTU_22	1.95293559039581	1	0.11836035298706
+OTU_23	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	OTU_23	OTU_23	OTU_23	OTU_23	4.81711264469409	3	1.42523367818048
+OTU_24	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	OTU_24	OTU_24	4.38100831890123	2	1.13303283776665
+OTU_25	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS2b marine group	OTU_25	OTU_25	4.40213277694659	2	1.14641506558341
+OTU_26	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	OTU_26	OTU_26	OTU_26	3.99879675916575	1	0.904474567927763
+OTU_27	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	OTU_27	OTU_27	OTU_27	4.12032987607048	1	0.974361144713717
+OTU_28	Bacteria	Proteobacteria	Gammaproteobacteria	OM182 clade	OTU_28	OTU_28	OTU_28	OTU_28	3.91535134819677	1	0.857995707272545
+OTU_29	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	OTU_29	OTU_29	OTU_29	OTU_29	4.00470015872688	3	0.907809177337076
+OTU_30	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	OM43 clade	OTU_30	OTU_30	3.65032357237848	2	0.718505976509303
+OTU_31	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Fluviicola	OTU_31	OTU_31	3.30144669686446	2	0.55373866148304
+OTU_32	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	NS11-12 marine group	OTU_32	OTU_32	OTU_32	3.46094706616026	2	0.626408383763674
+OTU_33	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Spongiibacteraceae	Sinobacterium	OTU_33	OTU_33	3.72924446954362	3	0.758750758597819
+OTU_34	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Methylophagaceae	OTU_34	OTU_34	OTU_34	3.57187607674469	3	0.679589341714469
+OTU_35	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	OTU_35	OTU_35	OTU_35	3.41384819785861	1	0.604483711175777
+OTU_36	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Ilumatobacteraceae	Ilumatobacter	OTU_36	OTU_36	3.31261505588097	2	0.558681228265457
+OTU_37	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	translucida	OTU_37	2.18780247147947	3	0.171164214333677
+OTU_38	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Saccharospirillaceae	Oleispira	OTU_38	OTU_38	3.01346881678473	1	0.433877353696232
+OTU_39	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_39	OTU_39	OTU_39	OTU_39	3.50124200514363	1	0.645475805123029
+OTU_40	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade IV	OTU_40	OTU_40	OTU_40	3.2788965416514	1	0.543826005258697
+OTU_41	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade II	OTU_41	OTU_41	OTU_41	3.43042959282769	3	0.612157858083817
+OTU_42	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Marinoscillum	OTU_42	OTU_42	3.39260632981012	1	0.594723345767392
+OTU_43	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Aurantivirga	OTU_43	OTU_43	3.4103010332353	1	0.602848309331438
+OTU_44	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	OTU_44	OTU_44	OTU_44	3.21748489626799	2	0.517284415664887
+OTU_45	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Pseudohongiellaceae	Pseudohongiella	OTU_45	OTU_45	3.15989842374103	2	0.492999273447183
+OTU_46	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	OTU_46	OTU_46	OTU_46	3.06906510104853	2	0.455880170098073
+OTU_47	Bacteria	SAR324 clade(Marine group B)	OTU_47	OTU_47	OTU_47	OTU_47	OTU_47	OTU_47	3.38646743401246	3	0.591917398758069
+OTU_48	Bacteria	Proteobacteria	Gammaproteobacteria	OM182 clade	OTU_48	OTU_48	OTU_48	OTU_48	3.07175970425361	3	0.456960414675843
+OTU_49	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	OTU_49	OTU_49	OTU_49	OTU_49	2.87462548364005	3	0.381305148377861
+OTU_50	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Lentimonas	OTU_50	OTU_50	2.68906826871776	1	0.316343950801339
+OTU_51	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	OTU_51	OTU_51	OTU_51	3.13065747165011	2	0.480891393710096
+OTU_52	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade III	OTU_52	OTU_52	OTU_52	2.97538448841871	2	0.419119148222554
+OTU_53	Bacteria	SAR324 clade(Marine group B)	OTU_53	OTU_53	OTU_53	OTU_53	OTU_53	OTU_53	3.1966482540237	3	0.508429860085094
+OTU_54	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Microbacteriaceae	ML602J-51	OTU_54	OTU_54	3.18633820659076	2	0.504076861797678
+OTU_55	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_55	OTU_55	OTU_55	OTU_55	2.62192114234181	1	0.294330326728945
+OTU_56	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	OTU_56	OTU_56	OTU_56	3.04146893911022	3	0.444890677417226
+OTU_57	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Pseudohongiellaceae	Pseudohongiella	OTU_57	OTU_57	2.98818732043635	3	0.424051930178752
+OTU_58	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Porticoccaceae	SAR92 clade	OTU_58	OTU_58	3.10168399664863	3	0.469042746544101
+OTU_59	Bacteria	Proteobacteria	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	OTU_59	OTU_59	OTU_59	2.78000060193455	3	0.347420743604197
+OTU_60	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Roseibacillus	OTU_60	OTU_60	2.99099038240899	3	0.425135768087765
+OTU_61	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Sulfitobacter	OTU_61	OTU_61	2.5991825109204	2	0.287055578788101
+OTU_62	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	OTU_62	OTU_62	1.49000685827662	1	0.0427188062428579
+OTU_63	Bacteria	Proteobacteria	Alphaproteobacteria	Kordiimonadales	OTU_63	OTU_63	OTU_63	OTU_63	2.73424447645029	1	0.331601286244024
+OTU_64	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	OTU_64	OTU_64	OTU_64	2.83608969274452	3	0.367315522422397
+OTU_65	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS4 marine group	OTU_65	OTU_65	2.60641774984101	2	0.289360467275712
+OTU_66	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Luteolibacter	OTU_66	OTU_66	1.97040855208519	1	0.121954322654102
+OTU_67	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_67	OTU_67	OTU_67	OTU_67	2.81730262441873	2	0.360590065645887
+OTU_68	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	OTU_68	OTU_68	1.92298850087682	1	0.112325621726192
+OTU_69	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Porticoccaceae	SAR92 clade	OTU_69	OTU_69	2.6024073178857	3	0.288081748534578
+OTU_70	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	OTU_70	OTU_70	2.50113903795054	3	0.256731067042294
+OTU_71	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_71	OTU_71	OTU_71	OTU_71	2.59927529226779	1	0.287085077272601
+OTU_72	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Salinirepens	OTU_72	OTU_72	2.27707874853274	2	0.193783153481291
+OTU_73	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Sulfitobacter	OTU_73	OTU_73	2.37243458719319	1	0.219492234495731
+OTU_74	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Octadecabacter	OTU_74	OTU_74	1.89045908428451	2	0.105949422816172
+OTU_75	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Kangiellaceae	OTU_75	OTU_75	OTU_75	2.38195421685242	2	0.222146727966643
+OTU_76	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	Magnetospira	OTU_76	OTU_76	2.43059007838649	3	0.235957542881011
+OTU_77	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Porticoccaceae	Porticoccus	OTU_77	OTU_77	2.30114760876849	2	0.200121366470716
+OTU_78	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	OTU_78	OTU_78	1.84106578597408	1	0.0966238852145919
+OTU_79	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_79	OTU_79	OTU_79	OTU_79	2.27487473950447	2	0.193207854552915
+OTU_80	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Pseudohongiellaceae	Pseudohongiella	OTU_80	OTU_80	2.38641649494412	3	0.223396500591856
+OTU_81	Bacteria	Proteobacteria	Alphaproteobacteria	Defluviicoccales	OTU_81	OTU_81	OTU_81	OTU_81	2.37785674544359	3	0.221002216078839
+OTU_82	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	OTU_82	OTU_82	2.11611146674874	1	0.154016516138769
+OTU_83	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Fluviicola	OTU_83	OTU_83	2.20467428010326	2	0.175331300452734
+OTU_84	Bacteria	Actinobacteriota	Actinobacteria	PeM15	OTU_84	OTU_84	OTU_84	OTU_84	2.27033909401964	1	0.192026633848486
+OTU_85	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	OTU_85	OTU_85	2.39066508664267	3	0.22458968288524
+OTU_86	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	OM43 clade	OTU_86	OTU_86	2.17378960759755	3	0.167741342879254
+OTU_87	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS7 marine group	OTU_87	OTU_87	OTU_87	2.32810038309123	2	0.207340076088794
+OTU_88	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	NS10 marine group	OTU_88	OTU_88	2.34766458066934	3	0.212660030477414
+OTU_89	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Oceanibulbus	indolifex	OTU_89	1.32164659876469	1	0.0245652648392858
+OTU_90	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Pseudofulvibacter	OTU_90	OTU_90	1.86621486291427	1	0.101318399623515
+OTU_91	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	RS62 marine group	OTU_91	OTU_91	1.9796858664037	2	0.123884396589507
+OTU_92	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Olleya	marilimosa	OTU_92	1.11122590337874	1	0.00889280373518074
+OTU_93	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Pseudohongiellaceae	Pseudohongiella	OTU_93	OTU_93	2.01572386874859	2	0.131525585125184
+OTU_94	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Aliivibrio	OTU_94	OTU_94	1.71980153586167	1	0.0755507382605452
+OTU_95	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	OCS116 clade	OTU_95	OTU_95	OTU_95	2.07320174795904	3	0.144185869582133
+OTU_96	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_96	OTU_96	OTU_96	OTU_96	2.02370274428143	1	0.133248273899386
+OTU_97	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	OTU_97	OTU_97	OTU_97	2.08574240842092	1	0.14702541767517
+OTU_98	Bacteria	Proteobacteria	Gammaproteobacteria	OM182 clade	OTU_98	OTU_98	OTU_98	OTU_98	2.03035137669975	3	0.134692316081046
+OTU_99	Bacteria	Proteobacteria	Gammaproteobacteria	Ectothiorhodospirales	Ectothiorhodospiraceae	OTU_99	OTU_99	OTU_99	2.02703921338662	3	0.133971961713382
+OTU_100	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS3a marine group	OTU_100	OTU_100	1.54640472577455	2	0.0499157938247992
+OTU_101	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	IS-44	OTU_101	OTU_101	1.90153928833818	2	0.108100369077538
+OTU_102	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Lutibacter	OTU_102	OTU_102	1.79326523035553	3	0.0880080395777379
+OTU_103	Bacteria	Proteobacteria	Gammaproteobacteria	KI89A clade	OTU_103	OTU_103	OTU_103	OTU_103	1.83006400292297	2	0.0946052218361417
+OTU_104	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	Methylotenera	OTU_104	OTU_104	1.84836881140141	2	0.0979756495092017
+OTU_105	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	OTU_105	OTU_105	OTU_105	1.63051369332329	1	0.0616893484077081
+OTU_106	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Halieaceae	Marimicrobium	OTU_106	OTU_106	1.77968194127492	3	0.0856331086083389
+OTU_107	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	OTU_107	OTU_107	OTU_107	1.91584645709154	1	0.110909724654628
+OTU_108	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Woeseiaceae	Woeseia	OTU_108	OTU_108	1.9188912898773	3	0.111512258965514
+OTU_109	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_109	OTU_109	OTU_109	OTU_109	1.83372556941931	2	0.0952746988192107
+OTU_110	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	OTU_110	OTU_110	OTU_110	1.82890897584151	3	0.0943945276302321
+OTU_111	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Porticoccaceae	SAR92 clade	OTU_111	OTU_111	1.63721293902147	3	0.062680659960836
+OTU_112	Bacteria	Nitrospinota	Nitrospinia	Nitrospinales	Nitrospinaceae	LS-NOB	OTU_112	OTU_112	1.92027576594688	3	0.11178676927965
+OTU_113	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_113	OTU_113	OTU_113	OTU_113	1.76800635848336	2	0.083617686089767
+OTU_114	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	OTU_114	OTU_114	OTU_114	1.70217403856798	3	0.0727029788358567
+OTU_115	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	OTU_115	OTU_115	OTU_115	OTU_115	1.86237642785359	3	0.100594687890122
+OTU_116	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	OTU_116	OTU_116	OTU_116	1.54098717716659	1	0.0492001422870838
+OTU_117	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	OM43 clade	OTU_117	OTU_117	1.68741186644805	2	0.0703602094839423
+OTU_118	Archaea	Thermoplasmatota	Thermoplasmata	Marine Group II	OTU_118	OTU_118	OTU_118	OTU_118	1.8324186622475	3	0.0950354743847752
+OTU_119	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Porticoccaceae	SAR92 clade	OTU_119	OTU_119	1.69230985981127	1	0.071133272091129
+OTU_120	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Alteromonas	OTU_120	OTU_120	1.06351993456064	2	0.00642360402750139
+OTU_121	Archaea	Thermoplasmatota	Thermoplasmata	Marine Group II	OTU_121	OTU_121	OTU_121	OTU_121	1.80970415132748	3	0.0909257008549778
+OTU_122	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	polaris	OTU_122	1.39397619330322	1	0.031752802144455
+OTU_123	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Nitrosomonas	OTU_123	OTU_123	1.82459739540072	3	0.0936101057427315
+OTU_124	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	OTU_124	OTU_124	OTU_124	OTU_124	1.7569609116409	3	0.0817331290502507
+OTU_125	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_125	OTU_125	OTU_125	OTU_125	1.74817105272287	2	0.0802487648869866
+OTU_126	Bacteria	Cyanobacteria	Cyanobacteriia	Synechococcales	Cyanobiaceae	Synechococcus CC9902	OTU_126	OTU_126	1.77556692235339	2	0.0849200411152859
+OTU_127	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Polaribacter	OTU_127	OTU_127	1.70385592660573	3	0.0729723305535854
+OTU_128	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Porticoccaceae	SAR92 clade	OTU_128	OTU_128	1.67808497226361	2	0.0688998015936658
+OTU_129	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_129	OTU_129	OTU_129	OTU_129	1.67691965994505	2	0.0687184129549812
+OTU_130	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Crocinitomix	OTU_130	OTU_130	1.54978672046384	3	0.0503651709501418
+OTU_131	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	OTU_131	OTU_131	1.59013445049788	1	0.0558816302958911
+OTU_132	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	OTU_132	OTU_132	1.67144956367383	3	0.0678701511260776
+OTU_134	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	OTU_134	OTU_134	OTU_134	1.66351662345831	3	0.0666493295957237
+OTU_135	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Saccharospirillaceae	OTU_135	OTU_135	OTU_135	1.62703914021767	1	0.061178318051726
+OTU_137	Bacteria	Marinimicrobia (SAR406 clade)	OTU_137	OTU_137	OTU_137	OTU_137	OTU_137	OTU_137	1.6275796607233	3	0.0612576771250939
+OTU_138	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	OTU_138	OTU_138	OTU_138	1.55827505386063	3	0.051501914471508
+OTU_139	Bacteria	Planctomycetota	OM190	OTU_139	OTU_139	OTU_139	OTU_139	OTU_139	1.6157993071207	3	0.0595397447761605
+OTU_140	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Lentimonas	OTU_140	OTU_140	1.47020855991962	2	0.0403251235911719
+OTU_141	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	Magnetospira	OTU_141	OTU_141	1.60060093728724	3	0.0573594572318054
+OTU_142	Bacteria	Actinobacteriota	Acidimicrobiia	Actinomarinales	Actinomarinaceae	Candidatus Actinomarina	OTU_142	OTU_142	1.58261649558458	3	0.0548320266890024
+OTU_143	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	NS11-12 marine group	OTU_143	OTU_143	OTU_143	1.34028572050224	1	0.0263293766217902
+OTU_144	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium-Methylorubrum	OTU_144	OTU_144	1.51465110678337	1	0.045794795932653
+OTU_145	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Nitrincolaceae	OTU_145	OTU_145	OTU_145	1.44593837888402	3	0.0374849271587852
+OTU_146	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	Vicingus	OTU_146	OTU_146	1.47664767233344	3	0.0410960620830664
+OTU_147	Bacteria	Marinimicrobia (SAR406 clade)	OTU_147	OTU_147	OTU_147	OTU_147	OTU_147	OTU_147	1.590521772412	3	0.0559359749750296
+OTU_148	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	OTU_148	OTU_148	OTU_148	1.39253629230091	2	0.0316007307182306
+OTU_149	Bacteria	Proteobacteria	Gammaproteobacteria	Tenderiales	Tenderiaceae	Candidatus Tenderia	OTU_149	OTU_149	1.50699795041192	2	0.0448281146896101
+OTU_150	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	OM43 clade	OTU_150	OTU_150	1.46204855380125	3	0.0393586337831008
+OTU_151	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	OTU_151	OTU_151	1.49655587320677	3	0.0435257942182464
+OTU_152	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Luteolibacter	OTU_152	OTU_152	1.40884380920525	1	0.0333443501769804
+OTU_153	Bacteria	Nitrospinota	Nitrospinia	Nitrospinales	Nitrospinaceae	LS-NOB	OTU_153	OTU_153	1.56630102042309	3	0.0525884063481004
+OTU_154	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	OTU_154	OTU_154	OTU_154	1.41691667483488	2	0.0342248367354774
+OTU_155	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Octadecabacter	OTU_155	OTU_155	1.39265829298158	2	0.0316136013512373
+OTU_156	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_156	OTU_156	OTU_156	OTU_156	1.50041872837287	1	0.044005326577681
+OTU_157	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	OTU_157	OTU_157	1.40528677375596	1	0.0329600351420756
+OTU_158	Bacteria	Marinimicrobia (SAR406 clade)	OTU_158	OTU_158	OTU_158	OTU_158	OTU_158	OTU_158	1.50931456683995	3	0.0451196415714966
+OTU_159	Bacteria	Marinimicrobia (SAR406 clade)	OTU_159	OTU_159	OTU_159	OTU_159	OTU_159	OTU_159	1.53344603587043	3	0.0482125693199434
+OTU_160	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Cellvibrionaceae	OTU_160	OTU_160	OTU_160	1.39656109878956	3	0.0320267161022465
+OTU_161	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Rubritalea	profundi	OTU_161	1.47975781880046	1	0.0414710464297339
+OTU_162	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_162	OTU_162	OTU_162	OTU_162	1.50529160196573	2	0.0446139892378473
+OTU_163	Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales	Nisaeaceae	OM75 clade	OTU_163	OTU_163	1.51147174668882	3	0.0453919542444808
+OTU_164	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	OTU_164	OTU_164	OTU_164	1.44897613502428	3	0.0378347400512159
+OTU_165	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	OTU_165	OTU_165	OTU_165	1.48422941287453	3	0.0420131623099194
+OTU_166	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Roseobacter clade NAC11-7 lineage	OTU_166	OTU_166	1.46348350444807	1	0.0395277431247565
+OTU_167	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	OTU_167	OTU_167	1.24534902420737	1	0.0179816699555585
+OTU_168	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Woeseiaceae	Woeseia	OTU_168	OTU_168	1.47377007541095	3	0.0407506325664729
+OTU_169	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Crocinitomix	OTU_169	OTU_169	1.44236153097595	3	0.037075117874257
+OTU_170	Bacteria	Proteobacteria	Gammaproteobacteria	Francisellales	Francisellaceae	Francisella	OTU_170	OTU_170	1.20578651643749	1	0.0149713884423964
+OTU_171	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_171	OTU_171	OTU_171	OTU_171	1.4272241683779	1	0.0353657261021158
+OTU_172	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Halieaceae	Halioglobus	OTU_172	OTU_172	1.43743786823319	1	0.0365146846852632
+OTU_173	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	OTU_173	OTU_173	1.46669143444941	3	0.0399071097065275
+OTU_174	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	OTU_174	OTU_174	1.44828677800298	3	0.0377552146141678
+OTU_175	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	OTU_175	OTU_175	OTU_175	1.43925420091379	3	0.0367209309128161
+OTU_177	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	OTU_177	OTU_177	OTU_177	1.3512435654471	1	0.0273950387107454
+OTU_178	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium	OTU_178	OTU_178	1.40551168105409	1	0.0329842689725026
+OTU_179	Bacteria	Firmicutes	Bacilli	Lactobacillales	Catellicoccaceae	Catellicoccus	OTU_179	OTU_179	1.4308454138545	2	0.035770985388198
+OTU_180	Bacteria	Patescibacteria	Gracilibacteria	JGI 0000069-P22	OTU_180	OTU_180	OTU_180	OTU_180	1.44864242581983	3	0.0377962323234892
+OTU_182	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Amylibacter	OTU_182	OTU_182	1.42265319762922	3	0.0348574779624301
+OTU_183	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	OTU_183	OTU_183	OTU_183	1.34071993190869	2	0.0263712018928164
+OTU_184	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Polaribacter	OTU_184	OTU_184	1.40726276776245	2	0.033173253698146
+OTU_185	Archaea	Thermoplasmatota	Thermoplasmata	Marine Group II	OTU_185	OTU_185	OTU_185	OTU_185	1.53505594717133	1	0.0484225595486272
+OTU_187	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	FS140-16B-02 marine group	OTU_187	OTU_187	1.40926106406746	3	0.033389577887569
+OTU_189	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	MB11C04 marine group	OTU_189	OTU_189	1.39314533422385	3	0.0316650085626946
+OTU_190	Bacteria	Nitrospinota	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	OTU_190	OTU_190	1.40202856616192	3	0.0326099612983627
+OTU_191	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Spongiibacteraceae	OTU_191	OTU_191	OTU_191	1.29003635706205	1	0.0217133190505818
+OTU_192	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Litoricolaceae	Litoricola	OTU_192	OTU_192	1.30671204239007	2	0.0231959129012825
+OTU_193	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Rubritalea	OTU_193	OTU_193	1.39346110324974	1	0.0316983603045686
+OTU_196	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	OTU_196	OTU_196	OTU_196	1.30962387090288	2	0.0234598171797458
+OTU_197	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Paraglaciecola	OTU_197	OTU_197	1.32341411030189	3	0.0247299270003581
+OTU_200	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	OTU_200	OTU_200	1.34226383477046	3	0.0265201866730574
+OTU_201	Bacteria	Proteobacteria	Gammaproteobacteria	Ga0077536	OTU_201	OTU_201	OTU_201	OTU_201	1.3166324139823	3	0.0241011345797983
+OTU_202	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Fokiniaceae	MD3-55	OTU_202	OTU_202	1.32016295811105	1	0.0244274728314491
+OTU_203	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS7 marine group	OTU_203	OTU_203	OTU_203	1.30921715835226	3	0.023422866396302
+OTU_204	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	OTU_204	OTU_204	1.33334709547062	3	0.0256655192174901
+OTU_207	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_207	OTU_207	OTU_207	OTU_207	1.33847650287807	1	0.0261554616286359
+OTU_208	Bacteria	Proteobacteria	Gammaproteobacteria	Tenderiales	Tenderiaceae	Candidatus Tenderia	OTU_208	OTU_208	1.27343419342465	3	0.0202858969183146
+OTU_209	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	OTU_209	OTU_209	OTU_209	OTU_209	1.31712751005181	3	0.0241467654253562
+OTU_210	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	MB11C04 marine group	OTU_210	OTU_210	1.31297647661619	3	0.0237655187098995
+OTU_211	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Rubritalea	OTU_211	OTU_211	1.30866057610604	1	0.02337234679903
+OTU_212	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Arctic97B-4 marine group	OTU_212	OTU_212	OTU_212	OTU_212	1.29935468628292	3	0.0225357534343697
+OTU_213	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_213	OTU_213	OTU_213	OTU_213	1.28292103372482	3	0.0210956150379377
+OTU_214	Bacteria	Marinimicrobia (SAR406 clade)	OTU_214	OTU_214	OTU_214	OTU_214	OTU_214	OTU_214	1.30156056290715	3	0.0227326815885777
+OTU_215	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	OTU_215	OTU_215	OTU_215	1.261869996517	2	0.0193203026736311
+OTU_216	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Porticoccaceae	SAR92 clade	OTU_216	OTU_216	1.25928508699594	1	0.0191076859654417
+OTU_217	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Roseibacillus	OTU_217	OTU_217	1.13866539808112	2	0.0104945501359599
+OTU_219	Archaea	Thermoplasmatota	Thermoplasmata	Marine Group II	OTU_219	OTU_219	OTU_219	OTU_219	1.2655779033703	3	0.0196273433596593
+OTU_220	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_220	OTU_220	OTU_220	OTU_220	1.22122991016142	3	0.0161136752469163
+OTU_221	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	OTU_221	OTU_221	OTU_221	1.23382439163856	2	0.0170763245772701
+OTU_222	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	OTU_222	OTU_222	OTU_222	1.25127535964702	3	0.0184563316344864
+OTU_223	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Pelagicoccus	OTU_223	OTU_223	1.20747784841898	3	0.0150944420733481
+OTU_224	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Cellvibrionaceae	OTU_224	OTU_224	OTU_224	1.19782018007128	3	0.0143985666829441
+OTU_225	Bacteria	NB1-j	OTU_225	OTU_225	OTU_225	OTU_225	OTU_225	OTU_225	1.22083308686283	3	0.0160837981846846
+OTU_227	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	JL-ETNP-F27	OTU_227	OTU_227	1.23843627590816	3	0.0174358158373955
+OTU_228	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	OTU_228	OTU_228	OTU_228	1.24202088323239	3	0.0177178184215684
+OTU_233	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	DEV007	OTU_233	OTU_233	OTU_233	1.22430318541087	1	0.0163460027687055
+OTU_234	Bacteria	Proteobacteria	Alphaproteobacteria	OTU_234	OTU_234	OTU_234	OTU_234	OTU_234	1.21945484578133	3	0.0159802449557012
+OTU_238	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Saccharospirillaceae	Thalassolituus	OTU_238	OTU_238	1.05239007571651	1	0.00590518177319302
+OTU_242	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	OTU_242	OTU_242	OTU_242	OTU_242	1.2030598169859	3	0.0147740666419448
+OTU_246	Bacteria	Nitrospinota	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	OTU_246	OTU_246	1.18733929895005	3	0.0136619557989982
+OTU_249	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_249	OTU_249	OTU_249	OTU_249	1.13220373856188	3	0.0101054262082075
+OTU_251	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	OTU_251	OTU_251	1.17138915308468	3	0.0125780688874047
+OTU_252	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	OTU_252	OTU_252	OTU_252	OTU_252	1.16225603441394	1	0.0119775974256953
+OTU_255	Archaea	Thermoplasmatota	Thermoplasmata	Marine Group II	OTU_255	OTU_255	OTU_255	OTU_255	1.16015998473524	3	0.0118418612430346
+OTU_256	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Porticoccaceae	C1-B045	OTU_256	OTU_256	1.14735513014329	1	0.0110294396944839
+OTU_257	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	OTU_257	OTU_257	1.10687501332671	1	0.00865100190818125
+OTU_261	Bacteria	Verrucomicrobiota	Kiritimatiellae	WCHB1-41	OTU_261	OTU_261	OTU_261	OTU_261	1.13984449694677	3	0.0105663490580327
+OTU_266	Bacteria	Cyanobacteria	Cyanobacteriia	Synechococcales	Cyanobiaceae	Cyanobium PCC-6307	OTU_266	OTU_266	1.13580601309534	1	0.0103214500042909
+OTU_267	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	OTU_267	OTU_267	OTU_267	1.1196956654478	3	0.00937307189734223
+OTU_269	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Cellvibrionaceae	Candidatus Endobugula	OTU_269	OTU_269	1.14617736999674	3	0.0109561647774239
+OTU_271	Bacteria	Fibrobacterota	Fibrobacteria	Fibrobacterales	Fibrobacteraceae	OTU_271	OTU_271	OTU_271	1.14937612966369	3	0.0111557462425469
+OTU_272	Bacteria	Planctomycetota	BD7-11	OTU_272	OTU_272	OTU_272	OTU_272	OTU_272	1.15373234719173	3	0.011430442589454
+OTU_276	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	toranzoniae	OTU_276	1.07293224882466	1	0.00687904457911797
+OTU_277	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	OTU_277	OTU_277	OTU_277	1.13448424372283	1	0.010241919837284
+OTU_278	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	OTU_278	OTU_278	1.06428892459616	1	0.00646022861060035
+OTU_280	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	OTU_280	OTU_280	1.1125099649575	1	0.0089648027363867
+OTU_281	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Arctic97B-4 marine group	OTU_281	OTU_281	OTU_281	OTU_281	1.13222375275816	3	0.0101066201225677
+OTU_282	Bacteria	Gemmatimonadota	BD2-11 terrestrial group	OTU_282	OTU_282	OTU_282	OTU_282	OTU_282	1.12338369299311	3	0.00958614438108929
+OTU_287	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	SCGC AAA164-E04	OTU_287	OTU_287	1.12126050050798	3	0.00946318636519752
+OTU_288	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	OTU_288	OTU_288	1.13578962003132	2	0.0103204617585027
+OTU_290	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_290	OTU_290	OTU_290	OTU_290	1.12838468356302	1	0.00987889734675071
+OTU_296	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	SCGC AAA164-E04	OTU_296	OTU_296	1.10216717281076	3	0.0083931166803518
+OTU_297	Bacteria	Proteobacteria	Gammaproteobacteria	OM182 clade	OTU_297	OTU_297	OTU_297	OTU_297	1.10074268836811	1	0.00831585550748432
+OTU_300	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Gimesiaceae	OTU_300	OTU_300	OTU_300	1.09540508082156	3	0.00802953169761117
+OTU_303	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_303	OTU_303	OTU_303	OTU_303	1.10202791945082	3	0.00838554810307948
+OTU_317	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Persicirhabdus	OTU_317	OTU_317	1.04877469249806	3	0.00574147220006093
+OTU_319	Bacteria	Proteobacteria	Gammaproteobacteria	Francisellales	Francisellaceae	Francisella	OTU_319	OTU_319	1.07102212156733	1	0.00678535637218824
+OTU_321	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	OTU_321	OTU_321	1.06403806493784	3	0.00644826951007255
+OTU_325	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	OTU_325	OTU_325	OTU_325	1.06147252816936	1	0.00632660009072056
+OTU_328	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	Cm1-21	OTU_328	OTU_328	1.05212189244715	3	0.00589295904120139
+OTU_331	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	OTU_331	OTU_331	OTU_331	1.06305381836966	3	0.00640145505454019
+OTU_333	Bacteria	Actinobacteriota	Actinobacteria	PeM15	OTU_333	OTU_333	OTU_333	OTU_333	1.05150564159094	1	0.00586492074537322
+OTU_339	Bacteria	Verrucomicrobiota	Lentisphaeria	P.palmC41	OTU_339	OTU_339	OTU_339	OTU_339	1.06597904479858	1	0.0065410896027788
+OTU_346	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Microbacteriaceae	OTU_346	OTU_346	OTU_346	1.02349668416665	1	0.00466114297942759
+OTU_351	Bacteria	Proteobacteria	Gammaproteobacteria	Francisellales	Francisellaceae	Francisella	OTU_351	OTU_351	1.04259423983199	1	0.00546694228235161
+OTU_368	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	OTU_368	OTU_368	OTU_368	OTU_368	1.02315394176719	1	0.00464726790365102
+OTU_370	Bacteria	Proteobacteria	Gammaproteobacteria	Francisellales	Francisellaceae	OTU_370	OTU_370	OTU_370	1.01743607115886	1	0.00441884466430312
+OTU_461	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Aureispira	OTU_461	OTU_461	1	1	0.00375782982383805

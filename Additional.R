@@ -171,7 +171,7 @@ ggsave(file.path(results_dir_ad,"RA_water_all_samples_with_PA.png"), plot = ra_w
        device = 'png', width = 8000, height = 1750, units = 'px')
 
 ###Generates PCoA plots all with Pseudoalteromonadacea axes 1-2
-mass_pallet <- c("darkkhaki","pink2", "slateblue","paleturquoise3","goldenrod1")
+mass_pallet <- c("goldenrod1", "darkkhaki", "pink2", "tomato3", "slateblue", "paleturquoise3", "darkorange")
 ord_bc_0m_12 <- ordinate(water, "PCoA", "bray")
 PCoA_water_bc_0m_12 <- plot_ordination(water, ord_bc_0m_12, color="Water_mass", shape = "Pseudoaltero_Status",  axes=c(1, 2)) +
   scale_colour_manual(values = mass_pallet) + 
@@ -181,6 +181,18 @@ PCoA_water_bc_0m_12 <- PCoA_water_bc_0m_12 + theme(legend.position = "none", asp
 print(PCoA_water_bc_0m_12)
 ggsave(file.path(results_dir_ad,"PCoA_water_bc_Pa_12.pdf"), plot = PCoA_water_bc_0m_12, 
        device = 'pdf', width = 1500, height = 1000, units = 'px')
+
+#legend
+ord_bc_0m_12 <- ordinate(water, "PCoA", "bray")
+PCoA_water_bc_0m_12 <- plot_ordination(water, ord_bc_0m_12, color="Water_mass", shape = "Pseudoaltero_Status",  axes=c(1, 2)) +
+  scale_colour_manual(values = mass_pallet) + 
+  geom_point(size=2.5, alpha=1)+ theme_bw() + 
+  theme(text = element_text(size = 15))
+PCoA_water_bc_0m_12 <- PCoA_water_bc_0m_12 + theme(legend.position = "top", aspect.ratio=1)
+print(PCoA_water_bc_0m_12)
+ggsave(file.path(results_dir_ad,"PCoA_water_bc_Pa_12_legend.pdf"), plot = PCoA_water_bc_0m_12, 
+       device = 'pdf', width = 1500, height = 1000, units = 'px')
+
 
 #Generates PCoA plots all axes 1-3
 ord_bc_0m_13 <- ordinate(water, "PCoA", "bray")
@@ -269,6 +281,8 @@ ggsave(file.path(results_dir_ad,"RA_LAB.png"), plot = ra_water,
 
 
 ###
+water <- subset_samples(water, Station != '6Z Kit')
+water
 sample_data(water)$Temperature_C <- as.numeric(as.character(sample_data(water)$Temperature_C))
 sample_data(water)$Salinity_ppt <- as.numeric(as.character(sample_data(water)$Salinity_ppt))
 sample_data(water)$Depth_m <- as.numeric(as.character(sample_data(water)$Depth_m))
@@ -282,6 +296,17 @@ PCoA_water_bc_0m_12 <- plot_ordination(water, ord_bc_0m_12, color="Temperature_C
 PCoA_water_bc_0m_12 <- PCoA_water_bc_0m_12 + theme(legend.position = "none", aspect.ratio=1)
 print(PCoA_water_bc_0m_12)
 ggsave(file.path(results_dir_ad,"PCoA_water_bc_vs_temperature_12.pdf"), plot = PCoA_water_bc_0m_12, 
+       device = 'pdf', width = 1500, height = 1000, units = 'px')
+
+#legend
+ord_bc_0m_12 <- ordinate(water, "PCoA", "bray")
+PCoA_water_bc_0m_12 <- plot_ordination(water, ord_bc_0m_12, color="Temperature_C", axes=c(1, 2)) +
+  scale_color_gradient(low="paleturquoise1", high="indianred2") +
+  geom_point(size=2.5, alpha=1)+ theme_bw() + 
+  theme(text = element_text(size = 15))
+PCoA_water_bc_0m_12 <- PCoA_water_bc_0m_12 + theme(legend.position = "top", aspect.ratio=1)
+print(PCoA_water_bc_0m_12)
+ggsave(file.path(results_dir_ad,"PCoA_water_bc_vs_temperature_12_legend.pdf"), plot = PCoA_water_bc_0m_12, 
        device = 'pdf', width = 1500, height = 1000, units = 'px')
 
 #Generates PCoA plots all axes 1-3
@@ -317,6 +342,17 @@ print(PCoA_water_bc_0m_12)
 ggsave(file.path(results_dir_ad,"PCoA_water_bc_vs_salinity_12.pdf"), plot = PCoA_water_bc_0m_12, 
        device = 'pdf', width = 1500, height = 1000, units = 'px')
 
+#legend
+ord_bc_0m_12 <- ordinate(water, "PCoA", "bray")
+PCoA_water_bc_0m_12 <- plot_ordination(water, ord_bc_0m_12, color="Salinity_ppt", axes=c(1, 2)) +
+  scale_color_gradient(low="darkblue", high="darkgoldenrod2") +
+  geom_point(size=2.5, alpha=1)+ theme_bw() + 
+  theme(text = element_text(size = 15))
+PCoA_water_bc_0m_12 <- PCoA_water_bc_0m_12 + theme(legend.position = "none", aspect.ratio=1)
+print(PCoA_water_bc_0m_12)
+ggsave(file.path(results_dir_ad,"PCoA_water_bc_vs_salinity_12_legend.pdf"), plot = PCoA_water_bc_0m_12, 
+       device = 'pdf', width = 1500, height = 1000, units = 'px')
+
 #Generates PCoA plots all axes 1-3
 ord_bc_0m_13 <- ordinate(water, "PCoA", "bray")
 PCoA_water_bc_0m_13 <- plot_ordination(water, ord_bc_0m_13, color="Salinity_ppt", axes=c(1, 3)) +
@@ -350,6 +386,17 @@ print(PCoA_water_bc_0m_12)
 ggsave(file.path(results_dir_ad,"PCoA_water_bc_vs_depth_12.pdf"), plot = PCoA_water_bc_0m_12, 
        device = 'pdf', width = 1500, height = 1000, units = 'px')
 
+#legend
+ord_bc_0m_12 <- ordinate(water, "PCoA", "bray")
+PCoA_water_bc_0m_12 <- plot_ordination(water, ord_bc_0m_12, color="Depth_m", axes=c(1, 2)) +
+  scale_color_gradient(low="paleturquoise3", high="darkblue") +
+  geom_point(size=2.5, alpha=1)+ theme_bw() + 
+  theme(text = element_text(size = 15))
+PCoA_water_bc_0m_12 <- PCoA_water_bc_0m_12 + theme(legend.position = "top", aspect.ratio=1)
+print(PCoA_water_bc_0m_12)
+ggsave(file.path(results_dir_ad,"PCoA_water_bc_vs_depth_12_legend.pdf"), plot = PCoA_water_bc_0m_12, 
+       device = 'pdf', width = 1500, height = 1000, units = 'px')
+
 #Generates PCoA plots all axes 1-3
 ord_bc_0m_13 <- ordinate(water, "PCoA", "bray")
 PCoA_water_bc_0m_13 <- plot_ordination(water, ord_bc_0m_13, color="Depth_m", axes=c(1, 3)) +
@@ -373,8 +420,8 @@ ggsave(file.path(results_dir_ad,"PCoA_water_bc_vs_depth_23.pdf"), plot = PCoA_wa
        device = 'pdf', width = 1500, height = 1000, units = 'px')
 
 ###Alpha
-mass_pallet <- c("darkkhaki","pink2", "slateblue","paleturquoise3","goldenrod1")
-mass_clusters_pallet <- c("#f2bac6", "#f389a1", "#887bd7", "#abd7d7")
+mass_pallet <- c("goldenrod1", "darkkhaki", "pink2", "tomato3", "slateblue", "paleturquoise3")
+mass_clusters_pallet <- c("darkkhaki", "pink2", "tomato3", "slateblue", "paleturquoise3")
 
 #Alpha mass
 
@@ -389,8 +436,8 @@ alpha_water_Chao <- alpha_water_Chao +
   geom_boxplot(aes(fill = Water_mass), color = "black", coef = 0) +
   theme(text = element_text(size = 16)) +
   scale_fill_manual(values = mass_pallet) + 
-  stat_compare_means(comparisons = list(c("BSBW","HAW", "KC", "MW", 
-                                          "SAW")), label = "p.signif", 
+  stat_compare_means(comparisons = list(c("BSBW","CDW", "KC", "MW", 
+                                          "ASW", "CDW+BSBW")), label = "p.signif", 
                      size = 2.9, method = "t.test", exact=FALSE, vjust = 0.1, 
                      symnum.args = list(cutpoints = c(0, 0.001, 0.01, 0.05, 1), 
                                         symbols = c("***", "**", "*","NS"))) +
