@@ -89,10 +89,16 @@ water_0m <- subset_samples(water, Depth_m == '0')
 water_0m
 water_50m <- subset_samples(water, Depth_m != '0')
 water_50m
+<<<<<<< HEAD
 water_core <- subset_samples(water, Microbiome_core %in% c("MW core", "KC core", 
                                                                    "CDW core", 
                                                                    "CDW+BSBW core", 
                                                            "BSBW core"))
+=======
+water_core <- subset_samples(water, Microbiome_cluster_core %in% c("MW core", "KC core", 
+                                                                   "CDW core", 
+                                                                   "CDW+BSBW core"))
+>>>>>>> 8a83c3959c8f8681c3c424db9db3188ce431cb44
 water_core_0m <- subset_samples(water_core, Depth_m == '0')
 
 water_core_50m <- subset_samples(water_core, Depth_m != '0')
@@ -401,6 +407,7 @@ KC_water_core <- prune_taxa(taxa_sums(KC_water_core) > 0, KC_water_core)
 KC_water_core_otu_list <- taxa_names(KC_water_core)
 KC_water_core_otu_list
 
+<<<<<<< HEAD
 CDW_water_core <- subset_samples(water_core, Microbiome_core %in% c("CDW core"))
 CDW_water_core <- prune_taxa(taxa_sums(CDW_water_core) > 0, CDW_water_core)
 CDW_water_core_otu_list <- taxa_names(CDW_water_core)
@@ -415,6 +422,17 @@ BSBW_water_core <- subset_samples(water_core, Microbiome_core %in% c("CDW core")
 BSBW_water_core <- prune_taxa(taxa_sums(BSBW_water_core) > 0, BSBW_water_core)
 BSBW_water_core_otu_list <- taxa_names(BSBW_water_core)
 BSBW_water_core_otu_list
+=======
+HAW_1_water_core <- subset_samples(water_core, Microbiome_cluster_core %in% c("CDW core"))
+HAW_1_water_core <- prune_taxa(taxa_sums(HAW_1_water_core) > 0, HAW_1_water_core)
+HAW_1_water_core_otu_list <- taxa_names(HAW_1_water_core)
+HAW_1_water_core_otu_list
+
+HAW_2_water_core <- subset_samples(water_core, Microbiome_cluster_core %in% c("CDW+BSBW core"))
+HAW_2_water_core <- prune_taxa(taxa_sums(HAW_2_water_core) > 0, HAW_2_water_core)
+HAW_2_water_core_otu_list <- taxa_names(HAW_2_water_core)
+HAW_2_water_core_otu_list
+>>>>>>> 8a83c3959c8f8681c3c424db9db3188ce431cb44
 
 # Plot a Venn diagram showing OTU sets intersections between core groups of water samples.
 venn.plot <- venn.diagram(
