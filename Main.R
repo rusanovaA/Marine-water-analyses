@@ -208,10 +208,10 @@ meta_df <- as.data.frame(sample_data(water))
 meta_df$Station <- factor(meta_df$Station, levels = dend_order_rev)
 meta_df <- meta_df[order(meta_df$Station), ]
 meta_df$Temperature_C <- as.numeric(as.character(meta_df$Temperature_C))
-meta_df$Salinity_ppt <- as.numeric(as.character(meta_df$Salinity_ppt))
+meta_df$Salinity_PSU <- as.numeric(as.character(meta_df$Salinity_PSU))
 mat_temp <- as.matrix(meta_df[, "Temperature_C", drop=FALSE])
 rownames(mat_temp) <- meta_df$Station
-mat_sal <- as.matrix(meta_df[, "Salinity_ppt", drop=FALSE])
+mat_sal <- as.matrix(meta_df[, "Salinity_PSU", drop=FALSE])
 rownames(mat_sal) <- meta_df$Station
 
 p1 <- pheatmap(mat_temp,
@@ -222,7 +222,7 @@ p1 <- pheatmap(mat_temp,
 p2 <- pheatmap(mat_sal,
                color = colorRampPalette(c("darkblue","darkgoldenrod2"))(50),
                cluster_rows = FALSE, cluster_cols = FALSE,
-               fontsize_row = 8, main = "Salinity_ppt")
+               fontsize_row = 8, main = "Salinity_PSU")
 
 grid.arrange(p1$gtable, p2$gtable, ncol = 2)
 
@@ -628,7 +628,7 @@ if (taxa_are_rows(otu_table(water))) { comm_matrix <- t(comm_matrix) }
 env_data <- as(sample_data(water), "data.frame")
 env_data$Depth_m <- as.numeric(as.character(env_data$Depth_m))
 env_data$Temperature_C <- as.numeric(as.character(env_data$Temperature_C))
-env_data$Salinity_ppt <- as.numeric(as.character(env_data$Salinity_ppt))
+env_data$Salinity_PSU <- as.numeric(as.character(env_data$Salinity_PSU))
 env_data$Water_mass <- as.factor(env_data$Water_mass)
 
 # Standardization
@@ -642,7 +642,7 @@ anova(mod_temp, permutations = 999)
 RsquareAdj(mod_temp)
 
 # dbRDA Salinity
-mod_sal <- dbrda(diss ~ Salinity_ppt, data = env_data)
+mod_sal <- dbrda(diss ~ Salinity_PSU, data = env_data)
 anova(mod_sal, permutations = 999)
 RsquareAdj(mod_sal)
 
@@ -652,7 +652,7 @@ anova(mod_depth, permutations = 999)
 RsquareAdj(mod_depth)
 
 # dbRDA physical parameters together
-mod_phys <- dbrda(diss ~ Temperature_C + Salinity_ppt + Depth_m, data = env_data)
+mod_phys <- dbrda(diss ~ Temperature_C + Salinity_PSU + Depth_m, data = env_data)
 anova(mod_phys, permutations = 999)
 RsquareAdj(mod_phys)
 
@@ -662,12 +662,12 @@ anova(mod_water, permutations = 999)
 RsquareAdj(mod_water)
 
 # Partial dbRDA — contribution of Water_mass beyond physical parameters
-mod_partial_water <- dbrda(diss ~ Water_mass + Condition(Temperature_C + Salinity_ppt + Depth_m), data = env_data)
+mod_partial_water <- dbrda(diss ~ Water_mass + Condition(Temperature_C + Salinity_PSU + Depth_m), data = env_data)
 anova(mod_partial_water, permutations = 999)
 RsquareAdj(mod_partial_water)
 
 # Partial dbRDA — contribution of physical parameters beyond Water_mass
-mod_partial_phys <- dbrda(diss ~ Temperature_C + Salinity_ppt + Depth_m + Condition(Water_mass), data = env_data)
+mod_partial_phys <- dbrda(diss ~ Temperature_C + Salinity_PSU + Depth_m + Condition(Water_mass), data = env_data)
 anova(mod_partial_phys, permutations = 999)
 RsquareAdj(mod_partial_phys)
 

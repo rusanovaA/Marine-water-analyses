@@ -284,7 +284,7 @@ ggsave(file.path(results_dir_ad,"RA_LAB.png"), plot = ra_water,
 water <- subset_samples(water, Station != '6Z Kit')
 water
 sample_data(water)$Temperature_C <- as.numeric(as.character(sample_data(water)$Temperature_C))
-sample_data(water)$Salinity_ppt <- as.numeric(as.character(sample_data(water)$Salinity_ppt))
+sample_data(water)$Salinity_PSU <- as.numeric(as.character(sample_data(water)$Salinity_PSU))
 sample_data(water)$Depth_m <- as.numeric(as.character(sample_data(water)$Depth_m))
 
 ###Generates PCoA plots all axes 1-2 temperature
@@ -333,7 +333,7 @@ ggsave(file.path(results_dir_ad,"PCoA_water_bc_vs_temperature_23.pdf"), plot = P
 
 ###Generates PCoA plots all axes 1-2 salinity
 ord_bc_0m_12 <- ordinate(water, "PCoA", "bray")
-PCoA_water_bc_0m_12 <- plot_ordination(water, ord_bc_0m_12, color="Salinity_ppt", axes=c(1, 2)) +
+PCoA_water_bc_0m_12 <- plot_ordination(water, ord_bc_0m_12, color="Salinity_PSU", axes=c(1, 2)) +
   scale_color_gradient(low="darkblue", high="darkgoldenrod2") +
   geom_point(size=2.5, alpha=1)+ theme_bw() + 
   theme(text = element_text(size = 15))
@@ -344,7 +344,7 @@ ggsave(file.path(results_dir_ad,"PCoA_water_bc_vs_salinity_12.pdf"), plot = PCoA
 
 #legend
 ord_bc_0m_12 <- ordinate(water, "PCoA", "bray")
-PCoA_water_bc_0m_12 <- plot_ordination(water, ord_bc_0m_12, color="Salinity_ppt", axes=c(1, 2)) +
+PCoA_water_bc_0m_12 <- plot_ordination(water, ord_bc_0m_12, color="Salinity_PSU", axes=c(1, 2)) +
   scale_color_gradient(low="darkblue", high="darkgoldenrod2") +
   geom_point(size=2.5, alpha=1)+ theme_bw() + 
   theme(text = element_text(size = 15))
@@ -355,7 +355,7 @@ ggsave(file.path(results_dir_ad,"PCoA_water_bc_vs_salinity_12_legend.pdf"), plot
 
 #Generates PCoA plots all axes 1-3
 ord_bc_0m_13 <- ordinate(water, "PCoA", "bray")
-PCoA_water_bc_0m_13 <- plot_ordination(water, ord_bc_0m_13, color="Salinity_ppt", axes=c(1, 3)) +
+PCoA_water_bc_0m_13 <- plot_ordination(water, ord_bc_0m_13, color="Salinity_PSU", axes=c(1, 3)) +
   scale_color_gradient(low="darkblue", high="darkgoldenrod2") +
   geom_point(size=2.5, alpha=1)+ theme_bw() + 
   theme(text = element_text(size = 15))
@@ -366,7 +366,7 @@ ggsave(file.path(results_dir_ad,"PCoA_water_bc_vs_salinity_13.pdf"), plot = PCoA
 
 #Generates PCoA plots all axes 2-3
 ord_bc_0m_23 <- ordinate(water, "PCoA", "bray")
-PCoA_water_bc_0m_23 <- plot_ordination(water, ord_bc_0m_13, color="Salinity_ppt", axes=c(2, 3)) +
+PCoA_water_bc_0m_23 <- plot_ordination(water, ord_bc_0m_13, color="Salinity_PSU", axes=c(2, 3)) +
   scale_color_gradient(low="darkblue", high="darkgoldenrod2") + 
   geom_point(size=2.5, alpha=1)+ theme_bw() + 
   theme(text = element_text(size = 15))
