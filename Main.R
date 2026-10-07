@@ -418,7 +418,7 @@ CDW_BSBW_water_core <- prune_taxa(taxa_sums(CDW_BSBW_water_core) > 0, CDW_BSBW_w
 CDW_BSBW_water_core_otu_list <- taxa_names(CDW_BSBW_water_core)
 CDW_BSBW_water_core_otu_list
 
-BSBW_water_core <- subset_samples(water_core, Microbiome_core %in% c("CDW core"))
+BSBW_water_core <- subset_samples(water_core, Microbiome_core %in% c("BSBW core"))
 BSBW_water_core <- prune_taxa(taxa_sums(BSBW_water_core) > 0, BSBW_water_core)
 BSBW_water_core_otu_list <- taxa_names(BSBW_water_core)
 BSBW_water_core_otu_list
